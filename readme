@@ -1,0 +1,36 @@
+# Archery Target GUI
+
+Author: Jeremiah E. Ochepo
+Last Edited: 2/28/2020 (2 PM)
+
+## Description
+
+This program creates a simple Archery Target GUI using the `graphics` library. It draws concentric circles of different colors to represent an archery target.
+
+## Instructions
+
+1. Run the program.
+2. Observe the Archery Target displayed in a window.
+3. Click anywhere on the window again to close it.
+
+## Files
+
+- `archery_target_gui.py`: Python script for drawing the Archery Target.
+
+## Dependencies
+
+- Python 3
+- `graphics` library
+
+## Usage
+
+1. Ensure you have Python 3 installed.
+2. Install the `graphics` library if not already installed: `pip install graphics.py`.
+3. Run the `archery_target_gui.py` script.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to explore, modify, and use the code as needed. Contributions are welcome!
+
